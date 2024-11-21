@@ -1,0 +1,89 @@
+{
+    "常用推荐": {
+        "icon": "",
+        "data": [
+            {
+                "name": "无影云",
+                "icon": "https://g.alicdn.com/cloudstream/cloudspace/6.9.3/favicon.png",
+                "url": "https://wuying.aliyun.com/",
+                "describe": "无影云Web端"
+            },
+            {
+                "name": "BEJSON",
+                "icon": "https://www.bejson.com/favicon.ico",
+                "url": "https://www.bejson.com/",
+                "describe": "JSON转换"
+            },
+            {
+                "name": "帮小忙",
+                "icon": "https://tool.browser.qq.com/favicon.ico",
+                "url": "https://tool.browser.qq.com/category/develop",
+                "describe": "腾讯开发工具箱"
+            },
+            {
+                "name": "时间戳",
+                "icon": "./assets/siteIcons/tinypng.png",
+                "url": "https://www.5666.online/web/",
+                "describe": "时间戳转换"
+            }
+        ]
+    },
+	"其他": {
+        "icon": "",
+        "data": [
+            {
+                "name": "CXY521",
+                "icon": "",
+                "url": "http://www.cxy521.com/index.html",
+                "describe": "程序员导航"
+            },
+            {
+                "name": "豆包",
+                "icon": "",
+                "url": "https://www.doubao.com/chat/",
+                "describe": "字节AI"
+            },
+            {
+                "name": "通义千问",
+                "icon": "",
+                "url": "https://tongyi.aliyun.com/qianwen/",
+                "describe": "阿里AI"
+            },
+            {
+                "name": "AutoX",
+                "icon": "",
+                "url": "http://doc.autoxjs.com/#/?id=%e7%bb%bc%e8%bf%b0",
+                "describe": "安卓脚本"
+            }
+        ]
+    },
+	"编程早教": {
+        "icon": "",
+        "data": [
+            {
+                "name": "CODE",
+                "icon": "",
+                "url": "https://studio.code.org/home",
+                "describe": "code.org"
+            },
+            {
+                "name": "ICODE",
+                "icon": "",
+                "url": "https://home.icode.org.cn/",
+                "describe": "国内CODE"
+            },
+            {
+                "name": "洛谷",
+                "icon": "",
+                "url": "https://www.luogu.com.cn/",
+                "describe": "洛谷题库"
+            },
+            {
+                "name": "东方博宜",
+                "icon": "",
+                "url": "https://oj.czos.cn/",
+                "describe": "问题列表"
+            }
+        ]
+    }
+}
